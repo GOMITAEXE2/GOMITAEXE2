@@ -1,7 +1,6 @@
 ## Hola, Soy GOMITA 😊👋
 <div align="center">
-  <h1 align="center">SEXO</h1>
-sexo
+  <h3 align="center">SEXO</h3>
 
 ## SOBRE MI 
 - Desarrollador de videojuegos junior
