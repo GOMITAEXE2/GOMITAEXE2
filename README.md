@@ -1,11 +1,14 @@
 ## Hola, Soy GOMITA 😊👋
-
+<div align="center">
+  <h1 align="center">SEXO</h1>
+sexo
 
 ## SOBRE MI 
 - Desarrollador de videojuegos junior
 - Actual estudiante de una tecnicatura en desarrollo de videojuegos
 - Trabajo para la Sub Secretaria De Sistemas y Tecnologias De La Informacion De La Ciudad De Corrientes
 <br>
+
 
 <!--
 **GOMITAEXE2/GOMITAEXE2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
