@@ -2,9 +2,9 @@
 
 
 ## SOBRE MI 
--Desarrollador de videojuegos junior
--Estudiante en una tecnicatura de desarrollo y programacion de videojuegos
--Trabajo para la Sub Secretaria De Sistemas y Tecnologias De La Informacion De La Ciudad De Corrientes
+- Desarrollador de videojuegos junior
+- Estudiante en una tecnicatura de desarrollo y programacion de videojuegos
+- Trabajo para la Sub Secretaria De Sistemas y Tecnologias De La Informacion De La Ciudad De Corrientes
 <br>
 
 <!--
