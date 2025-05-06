@@ -5,7 +5,7 @@
 ## SOBRE MI 
 - Desarrollador de videojuegos junior
 - Actual estudiante de una tecnicatura en desarrollo de videojuegos
-- Trabajo para la Sub Secretaria De Sistemas y Tecnologias De La Informacion De La Ciudad De Corrientes
+- Trabaje para la Sub Secretaria De Sistemas y Tecnologias De La Informacion De La Ciudad De Corrientes
 <br>
 
 
